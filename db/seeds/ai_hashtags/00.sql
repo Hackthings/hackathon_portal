@@ -2566,3 +2566,8 @@ INSERT INTO `ai_hashtags` (`id`, `hashtag`) VALUES (2592,'ErstelChristmasJam');
 INSERT INTO `ai_hashtags` (`id`, `hashtag`) VALUES (2593,'ReadyForRound2');
 INSERT INTO `ai_hashtags` (`id`, `hashtag`) VALUES (2594,'CareJam2021');
 INSERT INTO `ai_hashtags` (`id`, `hashtag`) VALUES (2595,'epiphanygamejam');
+INSERT INTO `ai_hashtags` (`id`, `hashtag`) VALUES (2596,'gdko');
+INSERT INTO `ai_hashtags` (`id`, `hashtag`) VALUES (2597,'JamCulturaAbierta');
+INSERT INTO `ai_hashtags` (`id`, `hashtag`) VALUES (2598,'GDLINT22');
+INSERT INTO `ai_hashtags` (`id`, `hashtag`) VALUES (2599,'dyingmmojam');
+INSERT INTO `ai_hashtags` (`id`, `hashtag`) VALUES (2600,'nokiajam');
