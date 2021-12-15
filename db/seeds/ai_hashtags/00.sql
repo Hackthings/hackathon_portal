@@ -2571,3 +2571,5 @@ INSERT INTO `ai_hashtags` (`id`, `hashtag`) VALUES (2597,'JamCulturaAbierta');
 INSERT INTO `ai_hashtags` (`id`, `hashtag`) VALUES (2598,'GDLINT22');
 INSERT INTO `ai_hashtags` (`id`, `hashtag`) VALUES (2599,'dyingmmojam');
 INSERT INTO `ai_hashtags` (`id`, `hashtag`) VALUES (2600,'nokiajam');
+INSERT INTO `ai_hashtags` (`id`, `hashtag`) VALUES (2601,'NOBOSEMON');
+INSERT INTO `ai_hashtags` (`id`, `hashtag`) VALUES (2602,'UbikJam22');
